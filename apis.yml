@@ -26,10 +26,10 @@ name: InstaPaisa
 description: InstaPaisa was an India-based personal-finance and lending fintech surfaced as a 500 Global
   (500 Startups) portfolio company and added to the API Evangelist network as a stub for enrichment. As
   of this enrichment pass the company appears defunct or absorbed — its domain instapaisa.com resolves
-  (Amazon CloudFront) but redirects to InCred Finance (incred.com), an Indian digital lending / NBFC
-  platform, indicating an acquisition or wind-down. No public developer portal, API documentation, or
-  machine-readable API specification was found for InstaPaisa, so no API artifacts could be harvested or
-  derived; only live domain-security signals for instapaisa.com were probed.
+  (Amazon CloudFront) but redirects to InCred Finance (incred.com), an Indian digital lending / NBFC platform,
+  indicating an acquisition or wind-down. No public developer portal, API documentation, or machine-readable
+  API specification was found for InstaPaisa, so no API artifacts could be harvested or derived; only
+  live domain-security signals for instapaisa.com were probed.
 url: https://raw.githubusercontent.com/api-evangelist/instapaisa/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -39,7 +39,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-09-15'
 x-status: defunct
 x-redirects-to: https://incred.com
 tags:
@@ -51,6 +51,7 @@ tags:
 - India
 - 500 Global
 - Acquired
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
